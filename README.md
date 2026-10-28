@@ -195,7 +195,7 @@ LabInsight_AI/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/nehasurule9/LabInsight-AI.git
+git clone https://github.com/shruti-jadhav1712/LabInsight_AI-Shruti-Final.git
 cd LabInsight-AI
 ```
 
