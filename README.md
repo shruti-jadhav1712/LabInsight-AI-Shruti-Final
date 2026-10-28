@@ -278,6 +278,6 @@ python tests/run_all_tests.py
 
 ## 👤 Author & Acknowledgments
 
-- **Author**: Neha Surule
+- **Author**: Shruti Jadhav
 - **Degree**: Bachelor of Technology / Bachelor of Engineering in Information Technology
-- **Repository**: [https://github.com/nehasurule9/LabInsight-AI](https://github.com/nehasurule9/LabInsight-AI)
+- **Repository**:[https://github.com/shruti-jadhav1712/LabInsight-AI-Shruti-Final)]
